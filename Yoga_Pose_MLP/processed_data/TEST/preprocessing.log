@@ -1,0 +1,31 @@
+2025-06-17 23:45:30,015 - INFO - [PREPROCESS_COMMON] Đang xử lý: dataset/test\Bhujasana\video 13.mp4
+2025-06-17 23:45:31,450 - INFO - [PREPROCESS_COMMON] Đã lưu 76 frame từ dataset/test\Bhujasana\video 13.mp4 trong 1.44 giây
+2025-06-17 23:45:31,451 - INFO - [PREPROCESS_COMMON] Đang xử lý: dataset/test\Bhujasana\video 14.mp4
+2025-06-17 23:45:33,930 - INFO - [PREPROCESS_COMMON] Đã lưu 127 frame từ dataset/test\Bhujasana\video 14.mp4 trong 3.92 giây
+2025-06-17 23:45:33,930 - INFO - [PREPROCESS_COMMON] Đang xử lý: dataset/test\Bhujasana\video 15.mp4
+2025-06-17 23:45:35,557 - INFO - [PREPROCESS_COMMON] Đã lưu 100 frame từ dataset/test\Bhujasana\video 15.mp4 trong 5.54 giây
+2025-06-17 23:45:35,557 - INFO - [PREPROCESS_COMMON] Đang xử lý: dataset/test\Padamasana\video 12.mp4
+2025-06-17 23:45:37,159 - INFO - [PREPROCESS_COMMON] Đã lưu 94 frame từ dataset/test\Padamasana\video 12.mp4 trong 7.15 giây
+2025-06-17 23:45:37,159 - INFO - [PREPROCESS_COMMON] Đang xử lý: dataset/test\Padamasana\video 13.mp4
+2025-06-17 23:45:38,788 - INFO - [PREPROCESS_COMMON] Đã lưu 89 frame từ dataset/test\Padamasana\video 13.mp4 trong 8.77 giây
+2025-06-17 23:45:38,788 - INFO - [PREPROCESS_COMMON] Đang xử lý: dataset/test\Padamasana\video 14.mp4
+2025-06-17 23:45:40,235 - INFO - [PREPROCESS_COMMON] Đã lưu 86 frame từ dataset/test\Padamasana\video 14.mp4 trong 10.22 giây
+2025-06-17 23:45:40,236 - INFO - [PREPROCESS_COMMON] Đang xử lý: dataset/test\Tadasana\video 13.mp4
+2025-06-17 23:45:42,078 - INFO - [PREPROCESS_COMMON] Đã lưu 110 frame từ dataset/test\Tadasana\video 13.mp4 trong 12.06 giây
+2025-06-17 23:45:42,078 - INFO - [PREPROCESS_COMMON] Đang xử lý: dataset/test\Tadasana\video 14.mp4
+2025-06-17 23:45:43,813 - INFO - [PREPROCESS_COMMON] Đã lưu 87 frame từ dataset/test\Tadasana\video 14.mp4 trong 13.80 giây
+2025-06-17 23:45:43,814 - INFO - [PREPROCESS_COMMON] Đang xử lý: dataset/test\Tadasana\video 15.mp4
+2025-06-17 23:45:45,509 - INFO - [PREPROCESS_COMMON] Đã lưu 87 frame từ dataset/test\Tadasana\video 15.mp4 trong 15.50 giây
+2025-06-17 23:45:45,509 - INFO - [PREPROCESS_COMMON] Đang xử lý: dataset/test\Trikasana\video 11.mp4
+2025-06-17 23:45:48,310 - INFO - [PREPROCESS_COMMON] Đã lưu 83 frame từ dataset/test\Trikasana\video 11.mp4 trong 18.30 giây
+2025-06-17 23:45:48,311 - INFO - [PREPROCESS_COMMON] Đang xử lý: dataset/test\Trikasana\video 12.mp4
+2025-06-17 23:45:50,312 - INFO - [PREPROCESS_COMMON] Đã lưu 82 frame từ dataset/test\Trikasana\video 12.mp4 trong 20.30 giây
+2025-06-17 23:45:50,312 - INFO - [PREPROCESS_COMMON] Đang xử lý: dataset/test\Trikasana\video 13.mp4
+2025-06-17 23:45:52,099 - INFO - [PREPROCESS_COMMON] Đã lưu 99 frame từ dataset/test\Trikasana\video 13.mp4 trong 22.09 giây
+2025-06-17 23:45:52,100 - INFO - [PREPROCESS_COMMON] Đang xử lý: dataset/test\Vrikshasana\video 12.mp4
+2025-06-17 23:45:54,053 - INFO - [PREPROCESS_COMMON] Đã lưu 108 frame từ dataset/test\Vrikshasana\video 12.mp4 trong 24.04 giây
+2025-06-17 23:45:54,053 - INFO - [PREPROCESS_COMMON] Đang xử lý: dataset/test\Vrikshasana\video 13.mp4
+2025-06-17 23:45:56,183 - INFO - [PREPROCESS_COMMON] Đã lưu 126 frame từ dataset/test\Vrikshasana\video 13.mp4 trong 26.17 giây
+2025-06-17 23:45:56,183 - INFO - [PREPROCESS_COMMON] Đang xử lý: dataset/test\Vrikshasana\video 14.mp4
+2025-06-17 23:45:58,427 - INFO - [PREPROCESS_COMMON] Đã lưu 84 frame từ dataset/test\Vrikshasana\video 14.mp4 trong 28.41 giây
+2025-06-17 23:45:58,427 - INFO - [PREPROCESS_COMMON] Hoàn tất trích xuất toàn bộ video trong 28.41 giây
